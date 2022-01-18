@@ -1,0 +1,11 @@
+1:önmagával definiálunk valamit, általában kisseb mértékben/ Függvény hívja meg őnmagát (egy adott féltekig).
+2:interpreter
+3:egy szám sorozatot hoz létre (min,max,step).
+4:a ciklust amit töbször hajtunk végre amig a feltételek igazak.
+5:Bármikor adhatunk új elemet, az új elem mindig a lista végére kerül (ListaNeve.append("új érték)
+6:lower() txt ="asdasdasdasdas"
+x = txt.islower()
+print(x)
+7:
+8:Bármikor készithetünk saját függvényt megkönnyitve ezzel a késsöbi programozási folyamatokat.
+9:A függvényt meghíváskor egy változó értékben tároljuk el, ebbe a változóba kerül bele visszatérési érték
