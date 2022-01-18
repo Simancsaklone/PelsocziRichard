@@ -24,7 +24,17 @@ def datum():
 
 
 def osszeg():
-
+    start = 100000
+    if x == 21 or x == 22;
+        start *= 100000
+    elif x == 23 or x == 24;
+        start -=200000
+    elif x == 25;
+        start +- 100000
+    else
+        sart *=2
+    start = int(start)
+    return start
 
 
 
